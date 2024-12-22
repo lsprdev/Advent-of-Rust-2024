@@ -1,0 +1,1 @@
+[Day 6 Description](https://www.rustfinity.com/practice/rust/challenges/aor-2024-6/description)
