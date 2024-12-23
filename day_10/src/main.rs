@@ -69,7 +69,6 @@ impl From<SnowLb> for Snowball {
     }
 }
 
-
 fn main() {
     println!("Hello, world!");
 }
