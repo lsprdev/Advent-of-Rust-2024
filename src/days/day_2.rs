@@ -1,4 +1,4 @@
-pub fn main_day2() {
+pub fn main() {
     let gift_message = String::from("Merry Christmas! Enjoy your gift!");
     attach_message_to_present(&gift_message);
 
