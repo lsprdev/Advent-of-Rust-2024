@@ -1,6 +1,7 @@
 [package]
 name = "advent_of_rust_2024"
 version = "0.1.0"
+authors = ["Gabriel Ls. Pr <gabriel@lspr.dev>"]
 edition = "2021"
 
 [lib]
