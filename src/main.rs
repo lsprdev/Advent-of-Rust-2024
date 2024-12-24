@@ -1,6 +1,5 @@
-mod days;
+use advent_of_rust_2024;
 
 fn main() {
-    days::day_14::main();
-    days::day_17::main();
+    advent_of_rust_2024::days::main();
 }

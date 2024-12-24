@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Advent-of-Rust-2024"
+name = "advent_of_rust_2024"
 version = "0.1.0"
