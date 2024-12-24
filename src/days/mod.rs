@@ -20,5 +20,6 @@ mod day_19;
 mod day_20;
 mod day_21;
 mod day_22;
+mod day_23;
 
 pub use day_1::*;
