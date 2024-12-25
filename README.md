@@ -1,0 +1,1 @@
+![Description of the image](./assets/advent_of_rust_2024.png)
